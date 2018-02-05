@@ -1,0 +1,46 @@
+/****************************
+*****************************
+****** S O L U C I O N ******
+*****************************
+*****************************/
+
+/*
+
+Primer Punto
+------------------------------
+  -Revisar main.cpp
+
+
+
+Segundo Punto
+------------------------------
+    -La salida fue:
+
+  		Mamifero c o n s t r u c t o r . . .
+  		Perro c o n s t r u c t o r . . .
+		El mamifero se mueve
+		El mamifero habla? Changos!
+
+
+
+	-Eliminando la palabra clave virtual, la salida fue:
+
+	 	Mamifero c o n s t r u c t o r . . .
+  		Perro c o n s t r u c t o r . . .
+		El mamifero se mueve
+		El mamifero habla? Changos!
+
+
+
+	-Descomentando el inciso comentado, la salida final fue exactamente
+	 la misma a la version del codigo anterior:
+
+	 	Mamifero c o n s t r u c t o r . . .
+  		Perro c o n s t r u c t o r . . .
+		El mamifero se mueve
+		El mamifero habla? Changos!
+
+
+Tercer Punto
+---------------------------------------------------------
+	-

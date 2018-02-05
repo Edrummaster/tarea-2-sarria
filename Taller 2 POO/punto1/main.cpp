@@ -5,9 +5,9 @@ int main(void){
     // Imprime ” Clase papa ”
     p -> prueba() ;
     delete p;
-    p =new Hijo;
+    Hijo *h =new Hijo;
     // Imprime ” Clase hijo ”
-    p ->prueba(); 
-    delete p;
+    h ->prueba(); 
+    delete h;
     return 0;
 }

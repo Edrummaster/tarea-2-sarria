@@ -11,7 +11,7 @@ class Papa{
 };
 
 class Hijo : public Papa{
-    private:
+    public:
         void prueba();
 };
 

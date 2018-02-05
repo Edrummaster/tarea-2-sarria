@@ -1,5 +1,5 @@
 #include "Prueba1.h"
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 void Papa::prueba(){
